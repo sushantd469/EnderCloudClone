@@ -1655,7 +1655,7 @@
                                   className: "relative",
                                   children: [
                                     (0, s.jsxs)("a", {
-                                      href: "/games",
+                                      href: "/minecraft",
                                       className:
                                         "group button-primary text-button-primary px-4 py-3 rounded-md font-bold text-md transition-all duration-300 flex items-center gap-2 backdrop-blur-sm no-underline shadow-none hover:shadow-none relative",
                                       children: [
